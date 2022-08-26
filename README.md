@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Chathuranga Jayanath 👋
+
+## Skills and Experience
+Python, Java, C++, Javascript, Node.js, React
 
 <!--
 **chathuranga-jayanath-99/chathuranga-jayanath-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
