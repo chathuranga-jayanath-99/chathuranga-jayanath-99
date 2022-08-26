@@ -1,5 +1,4 @@
-### Hi there, I'm
-## Chathuranga Jayanath 👋
+### Hi there, I'm Chathuranga Jayanath 👋
 
 ### Skills and Experience
 Python, Java, C++, Javascript, Node.js, React
